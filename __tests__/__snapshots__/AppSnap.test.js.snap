@@ -1,0 +1,170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<button
+  type="button"
+>
+   
+  <div
+    className="dropdown-list"
+  >
+    <div
+      className="search-input"
+    >
+      <input
+        className={undefined}
+        onChange={[Function]}
+        onClick="null"
+        placeholder="Search"
+        type="search"
+        value=""
+      />
+    </div>
+    <div>
+      <button
+        className="js-toolbar-item dropdown-item dropdown-header2"
+        data-prefix="elso kontent"
+        type="button"
+      >
+        <div>
+          <h4>
+            elso
+          </h4>
+          <p
+            className="p"
+          >
+            elso kontent
+          </p>
+        </div>
+      </button>
+    </div>
+    <div>
+      <button
+        className="js-toolbar-item dropdown-item dropdown-header2"
+        data-prefix="elso kontent"
+        type="button"
+      >
+        <div>
+          <h4>
+            elso1
+          </h4>
+          <p
+            className="p"
+          >
+            elso kontent
+          </p>
+        </div>
+      </button>
+    </div>
+    <div>
+      <button
+        className="js-toolbar-item dropdown-item dropdown-header2"
+        data-prefix="elso kontent"
+        type="button"
+      >
+        <div>
+          <h4>
+            elso2
+          </h4>
+          <p
+            className="p"
+          >
+            elso kontent
+          </p>
+        </div>
+      </button>
+    </div>
+    <div>
+      <button
+        className="js-toolbar-item dropdown-item dropdown-header2"
+        data-prefix="elso kontent"
+        type="button"
+      >
+        <div>
+          <h4>
+            elso3
+          </h4>
+          <p
+            className="p"
+          >
+            elso kontent
+          </p>
+        </div>
+      </button>
+    </div>
+    <div>
+      <button
+        className="js-toolbar-item dropdown-item dropdown-header2"
+        data-prefix="elso kontent"
+        type="button"
+      >
+        <div>
+          <h4>
+            elso4
+          </h4>
+          <p
+            className="p"
+          >
+            elso kontent
+          </p>
+        </div>
+      </button>
+    </div>
+    <div>
+      <button
+        className="js-toolbar-item dropdown-item dropdown-header2"
+        data-prefix="elso kontent"
+        type="button"
+      >
+        <div>
+          <h4>
+            elso5
+          </h4>
+          <p
+            className="p"
+          >
+            elso kontent
+          </p>
+        </div>
+      </button>
+    </div>
+    <div>
+      <button
+        className="js-toolbar-item dropdown-item dropdown-header2"
+        data-prefix="masodik kontent"
+        type="button"
+      >
+        <div>
+          <h4>
+            masodik
+          </h4>
+          <p
+            className="p"
+          >
+            masodik kontent
+          </p>
+        </div>
+      </button>
+    </div>
+    <div>
+      <button
+        className="js-toolbar-item dropdown-item dropdown-header2"
+        data-prefix="harmadik kontent"
+        type="button"
+      >
+        <div>
+          <h4>
+            harmadik
+          </h4>
+          <p
+            className="p"
+          >
+            harmadik kontent
+          </p>
+        </div>
+      </button>
+    </div>
+  </div>
+   
+</button>
+`;

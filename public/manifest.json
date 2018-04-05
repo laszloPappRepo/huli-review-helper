@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Review Helper",
+    "options_page": "options.html",
+    "icons": { "128": "foxicon.png" },
+    "version": "0.2.1",
+    "description": "Cool tool to help mentors review their students' code",
+    "content_scripts": [
+      {
+        "matches": ["https://github.com/greenfox-academy/*"],
+        "js": ["./dist/bundle.js", "./dist/options_bundle.js"]
+      
+      }
+    ],
+    "browser_action": {
+      "default_title": "Review Helper",
+      "default_icon": "foxicon.png"
+    }
+  }
